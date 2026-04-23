@@ -8,4 +8,4 @@
 
 <div id="rabbit"></div>
 
-![可愛兔子](rabbit.jpg)
+![可愛兔子](rabbit.png)
